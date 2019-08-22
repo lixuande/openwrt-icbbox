@@ -28,8 +28,8 @@ Kernel modules-->Wireless Drivers-->kmod-rt2x00-lib
 
 ```
 
-cd openwrt-icbbox/
-https://github.com/lixuande/rt2860v2
+cd openwrt-icbbox/package/
+git clone https://github.com/lixuande/rt2860v2
 
 ```
 
